@@ -1,0 +1,2 @@
+module Javahelloworld1 {
+}
